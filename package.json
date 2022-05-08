@@ -1,0 +1,11 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DeathVenom54/algorithms.git",
+  "author": "DeathVenom54 <fdragon602@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "esno": "^0.14.1"
+  }
+}
